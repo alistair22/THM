@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RiderTakeMeHome</string>
+
+    <string name="BriefDescription">Your travel is safe, dependable and affordable</string>
+    <string name="title_activity_ride">RideActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>

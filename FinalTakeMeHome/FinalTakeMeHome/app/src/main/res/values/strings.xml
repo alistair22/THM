@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FinalTakeMeHome</string>
+    <string name="BriefDescription">Your travel is safe, dependable and affordable</string>
+    <string name="title_activity_main_ride">MainRideActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="profile_name">Jordan Metth</string>
+    <string name="country_location">South Africa</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

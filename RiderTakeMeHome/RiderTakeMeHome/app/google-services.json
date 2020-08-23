@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "629826150634",
+    "firebase_url": "https://ridertakemehome.firebaseio.com",
+    "project_id": "ridertakemehome",
+    "storage_bucket": "ridertakemehome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629826150634:android:2460494fe37e7ac5",
+        "android_client_info": {
+          "package_name": "com.example.alistair.ridertakemehome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629826150634-4oojsvtkcbr9sicefpo7kdh1ho01j7in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs3rUbcrl7UJet8I0buFNCUdj3kQFZ-Sc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
